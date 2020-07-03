@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: pe.edu.upc.cubisoft.restservicecubisoft.RestServiceCubisoftA
+ pplication
+
